@@ -1,11 +1,11 @@
 # Privacy Policy
 
-[[tashtari]] takes your privacy seriously. To better protect your privacy [["I"]] provide this privacy policy notice explaining the way your personal information is collected and used.
+[[CoffeeBuzz]] takes your privacy seriously. To better protect your privacy [["I"]] provide this privacy policy notice explaining the way your personal information is collected and used.
 
 
 ## Collection of Routine Information
 
-This [[tashtari]] track basic information about their [[ "users"]]. This information includes, but is not limited to, IP addresses, [[ "app"]] details, timestamps and referring pages. None of this information can personally identify specific [[ "user"]] to this [[ "app"]]. The information is tracked for routine administration and maintenance purposes.
+This [[CoffeeBuzz]] track basic information about their [[ "users"]]. This information includes, but is not limited to, IP addresses, [[ "app"]] details, timestamps and referring pages. None of this information can personally identify specific [[ "user"]] to this [[ "app"]]. The information is tracked for routine administration and maintenance purposes.
 
 
 ## Cookies
